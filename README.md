@@ -1,7 +1,5 @@
-## Hi there 👋
-# 👋 Hello! Welcome to my Github profile.
-## My name is Gabriel and my nickname is "Morgado"!
 
+## Olá! Eu sou o Gabriel Morgado 🖐️
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
